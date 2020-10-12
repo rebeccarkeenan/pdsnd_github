@@ -72,7 +72,6 @@ def load_data(city, month, day):
     """
 
     # Create dataframe 
-    
     df = pd.read_csv(CITY_DATA[city])
 
     # Convert Start and End Times to datetime format

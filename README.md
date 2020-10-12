@@ -38,7 +38,7 @@ The dataset is randomized information from January through June 2017 for New Yor
     total travel time
     average travel time
 
-#4 User info
+#4 User information
 
     counts of each user type
     counts of each gender (only available for NYC and Chicago)

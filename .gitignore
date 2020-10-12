@@ -1,0 +1,7 @@
+cities_data.csv
+chicago.csv
+new_york_city.csv
+washington.csv
+
+# Ignore Mac DS_Store files
+.DS_Store
